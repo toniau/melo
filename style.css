@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#head {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 100px;
+    font-size: 5em;
+    letter-spacing: 40px;
+}
+
+#melo-head {
+    font-size: 5em;
+    letter-spacing: 40px;
+}
